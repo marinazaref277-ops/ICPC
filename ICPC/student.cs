@@ -13,6 +13,7 @@ namespace ICPC
 
         public student(int id, string name)
         {
+
             setid(id);
             setName(name);
               
