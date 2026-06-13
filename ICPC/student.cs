@@ -21,6 +21,7 @@ namespace ICPC
         {
         }
 
+
         public void setName(string _namee) { 
            name = _namee;
         }
